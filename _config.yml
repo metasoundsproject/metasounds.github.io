@@ -3,7 +3,8 @@ description: ""
 baseurl: ""
 url: ""
 
-exclude: [vendor]
+exclude: 
+  - vendor
   - demo/
   - cvless.gemspec
   - LICENSE
