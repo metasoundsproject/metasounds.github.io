@@ -5,8 +5,7 @@ url: ""
 
 exclude: 
   
-  - Gemfile
-  - demo/
+
   - cvless.gemspec
   - LICENSE
   - README.md
