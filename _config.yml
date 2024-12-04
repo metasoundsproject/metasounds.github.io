@@ -1,15 +1,12 @@
 title: ""
 description: ""
-baseurl: ""
-url: ""
+baseurl: "/demo"
+url: "https://metasoundsproject/metasoundsproject.github.io"
 
 exclude: 
-  
-- Gemfile
-
+  - Gemfile
   - vendor
   - Gemfile
-  - demo/
   - cvless.gemspec
   - LICENSE
   - README.md
