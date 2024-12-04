@@ -4,6 +4,7 @@ baseurl: ""
 url: "https://metasoundsproject.github.io"
 
 exclude: 
+  - demo/
   - Gemfile
   - vendor
   - cvless.gemspec
