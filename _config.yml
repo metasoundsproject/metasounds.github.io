@@ -4,7 +4,8 @@ baseurl: ""
 url: ""
 
 exclude: 
-  - [vendor]
+  - vendor
+  - gemfile
   - demo/
   - cvless.gemspec
   - LICENSE
