@@ -2,6 +2,7 @@ title: "MetaSounds Official Site | MetaSounds"
 description: ""
 baseurl: ""
 url: "https://metasoundsproject.github.io"
+menus: header
 
 exclude: 
   - demo/
